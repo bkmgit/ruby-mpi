@@ -14,6 +14,20 @@
 # "A High-Performance Computing Implementation of Iterative Random Forest 
 # for the Creation of Predictive Expression Networks"
 # http://dx.doi.org/10.3390/genes10120996
+#
+# L. Breiman
+# "Random Forests"
+# https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf
+#
+# L. Breiman and A. Cutler
+# https://www.stat.berkeley.edu/~breiman/RandomForests/cc_examples/prog.f
+#
+# T. Hastie, R. Tibshirani, J. Friedman
+# "The Elements of Statistical Learning"
+# https://web.stanford.edu/~hastie/ElemStatLearn/
+#
+# Andrii Dobroshynski
+# https://github.com/dobroshynski/random-forests-c
 
 require "mpi"
 if defined?(NumRu::NArray)
